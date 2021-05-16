@@ -3,4 +3,5 @@ Git is free software
 ok
 ok
 yes
-yes
+ye
+s
